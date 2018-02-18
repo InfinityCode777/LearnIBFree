@@ -12,9 +12,9 @@
 		2D0C77E520390FC300F3F2C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D0C77E420390FC300F3F2C8 /* Assets.xcassets */; };
 		2D0C77F320390FC300F3F2C8 /* JingIBlessPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D0C77F220390FC300F3F2C8 /* JingIBlessPracticeTests.swift */; };
 		2D0C77FE20390FC300F3F2C8 /* JingIBlessPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D0C77FD20390FC300F3F2C8 /* JingIBlessPracticeUITests.swift */; };
-		2D1F8A932039218C005D1738 /* XibView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F8A902039218B005D1738 /* XibView.swift */; };
-		2D1F8A942039218C005D1738 /* XibView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D1F8A912039218B005D1738 /* XibView.xib */; };
-		2D1F8A952039218C005D1738 /* XiblessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F8A922039218C005D1738 /* XiblessView.swift */; };
+		2D1F8A992039E73F005D1738 /* XibView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F8A962039E73F005D1738 /* XibView.swift */; };
+		2D1F8A9A2039E73F005D1738 /* XibView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D1F8A972039E73F005D1738 /* XibView.xib */; };
+		2D1F8A9B2039E73F005D1738 /* XiblessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D1F8A982039E73F005D1738 /* XiblessView.swift */; };
 		50E3D3578E82493F2DC7B3B8 /* Pods_JingIBlessPracticeTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C139F5B83631D5B5AB48E873 /* Pods_JingIBlessPracticeTests.framework */; };
 		DC8FBAC79E91B2BBB9DC3864 /* Pods_JingIBlessPractice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1949A26EA6E83C3E94D7D3CF /* Pods_JingIBlessPractice.framework */; };
 		FAC733EBBE7788F4A775B5AD /* Pods_JingIBlessPracticeUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F61888361A3F03D861F7A2FD /* Pods_JingIBlessPracticeUITests.framework */; };
@@ -52,9 +52,9 @@
 		2D0C77F920390FC300F3F2C8 /* JingIBlessPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JingIBlessPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D0C77FD20390FC300F3F2C8 /* JingIBlessPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JingIBlessPracticeUITests.swift; sourceTree = "<group>"; };
 		2D0C77FF20390FC300F3F2C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2D1F8A902039218B005D1738 /* XibView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = XibView.swift; path = "../../IBFree Project/IBFree/XibView.swift"; sourceTree = "<group>"; };
-		2D1F8A912039218B005D1738 /* XibView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = XibView.xib; path = "../../IBFree Project/IBFree/XibView.xib"; sourceTree = "<group>"; };
-		2D1F8A922039218C005D1738 /* XiblessView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = XiblessView.swift; path = "../../IBFree Project/IBFree/XiblessView.swift"; sourceTree = "<group>"; };
+		2D1F8A962039E73F005D1738 /* XibView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XibView.swift; sourceTree = "<group>"; };
+		2D1F8A972039E73F005D1738 /* XibView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = XibView.xib; sourceTree = "<group>"; };
+		2D1F8A982039E73F005D1738 /* XiblessView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XiblessView.swift; sourceTree = "<group>"; };
 		60F1ECFC2A9F5EAA98CA9900 /* Pods-JingIBlessPracticeUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JingIBlessPracticeUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JingIBlessPracticeUITests/Pods-JingIBlessPracticeUITests.release.xcconfig"; sourceTree = "<group>"; };
 		8B7B99D0823416FA12F1B2D2 /* Pods-JingIBlessPracticeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JingIBlessPracticeTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JingIBlessPracticeTests/Pods-JingIBlessPracticeTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C139F5B83631D5B5AB48E873 /* Pods_JingIBlessPracticeTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JingIBlessPracticeTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -120,9 +120,9 @@
 				2D0C77DF20390FC300F3F2C8 /* FirstIBLessVC.swift */,
 				2D0C77E420390FC300F3F2C8 /* Assets.xcassets */,
 				2D0C77E920390FC300F3F2C8 /* Info.plist */,
-				2D1F8A922039218C005D1738 /* XiblessView.swift */,
-				2D1F8A902039218B005D1738 /* XibView.swift */,
-				2D1F8A912039218B005D1738 /* XibView.xib */,
+				2D1F8A982039E73F005D1738 /* XiblessView.swift */,
+				2D1F8A962039E73F005D1738 /* XibView.swift */,
+				2D1F8A972039E73F005D1738 /* XibView.xib */,
 			);
 			path = JingIBlessPractice;
 			sourceTree = "<group>";
@@ -284,7 +284,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2D1F8A942039218C005D1738 /* XibView.xib in Resources */,
+				2D1F8A9A2039E73F005D1738 /* XibView.xib in Resources */,
 				2D0C77E520390FC300F3F2C8 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -461,8 +461,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2D0C77E020390FC300F3F2C8 /* FirstIBLessVC.swift in Sources */,
-				2D1F8A952039218C005D1738 /* XiblessView.swift in Sources */,
-				2D1F8A932039218C005D1738 /* XibView.swift in Sources */,
+				2D1F8A9B2039E73F005D1738 /* XiblessView.swift in Sources */,
+				2D1F8A992039E73F005D1738 /* XibView.swift in Sources */,
 				2D0C77DE20390FC300F3F2C8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
