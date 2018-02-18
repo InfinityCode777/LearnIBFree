@@ -1,0 +1,6 @@
+framework module Pods_JingIBlessPractice {
+  umbrella header "Pods-JingIBlessPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}

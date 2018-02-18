@@ -1,0 +1,6 @@
+framework module Pods_JingIBlessPracticeTests {
+  umbrella header "Pods-JingIBlessPracticeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
